@@ -47,8 +47,6 @@
                                 <tbody>
                                     @foreach ($proyectos as $proyecto)
                                         <tr>
-                                            <td>{{ ++$i }}</td>
-                                            
 											<td>{{ $proyecto->nombre }}</td>
 											<td>{{ $proyecto->imagen }}</td>
 											<td>{{ $proyecto->descripción }}</td>
