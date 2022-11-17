@@ -38,7 +38,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/portfolio/huanucofoto.jpg" alt="..." />
+                <img class="masthead-avatar mb-5" src="assets/img/portfolio/senaticonexion.jpg" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">City Tour</h1>
                 <!-- Icon Divider-->
@@ -57,7 +57,7 @@
                 @yield('content')
 
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Hermosos Lugares</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Hermosos Lugares del Perú</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -72,7 +72,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/iquitos.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/iquitosplaza.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -90,7 +90,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/pucallpa.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4-->
@@ -99,7 +99,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/tarapoto.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -108,7 +108,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/tingomaria.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -117,7 +117,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/moyobamba.jpg" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Sobre nosotros</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -136,14 +136,14 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">La empresa City Tour nace legalmente constituida en el año 2022, luego de un sinnúmero de experiencias turísticas y la necesidad de ser un ente constituido y respaldado por entidades que garanticen la funcionalidad y la imagen de empresa.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Siendo una empresa  constituida como persona natural, tuvo importantes alianzas con empresas de gran reconocimiento en el valle del cauca (Oliverio Tours, Nirvana, viajes Calima etc.) donde inicie como  vendedor de sus productos en los diversos productos turísticos que se ofrecían en ese momento; Lima, Pucallpa, Iquitoa, Tarapoto, Moyobamba, etc.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                     <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
                         <i class="fas fa-download me-2"></i>
-                        Free Download!
+                        Es una prueba libre
                     </a>
                 </div>
             </div>
@@ -152,7 +152,7 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <!-- Contact Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Comunícate con nosotros</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -173,27 +173,27 @@
                             <!-- Name input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                                <label for="name">Full name</label>
-                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                                <label for="name">Nombre Completo</label>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">Ingrese su nombre.</div>
                             </div>
                             <!-- Email address input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
-                                <label for="email">Email address</label>
-                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                                <label for="email">Correo electrónico</label>
+                                <div class="invalid-feedback" data-sb-feedback="email:required">Ingrese su Email.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">Correo electrónico no válido.</div>
                             </div>
                             <!-- Phone number input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
-                                <label for="phone">Phone number</label>
-                                <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                                <label for="phone">Número de celular</label>
+                                <div class="invalid-feedback" data-sb-feedback="phone:required">Es necesario su número.</div>
                             </div>
                             <!-- Message input-->
                             <div class="form-floating mb-3">
                                 <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
-                                <label for="message">Message</label>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                                <label for="message">Mensaje</label>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">Ingrese los detalles de requerimiento.</div>
                             </div>
                             <!-- Submit success message-->
                             <!---->
@@ -201,7 +201,7 @@
                             <!-- has successfully submitted-->
                             <div class="d-none" id="submitSuccessMessage">
                                 <div class="text-center mb-3">
-                                    <div class="fw-bolder">Form submission successful!</div>
+                                    <div class="fw-bolder">Registro Satisfactorio</div>
                                     To activate this form, sign up at
                                     <br />
                                     <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
@@ -211,9 +211,9 @@
                             <!---->
                             <!-- This is what your users will see when there is-->
                             <!-- an error submitting the form-->
-                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error!</div></div>
                             <!-- Submit Button-->
-                            <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Send</button>
+                            <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Enviar</button>
                         </form>
                     </div>
                 </div>
@@ -225,16 +225,16 @@
                 <div class="row">
                     <!-- Footer Location-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Location</h4>
+                        <h4 class="text-uppercase mb-4">Dirección</h4>
                         <p class="lead mb-0">
-                            2215 John Daniel Drive
+                            Los Eucaliptos 110 URB Cayhuayna - Huánuco
                             <br />
-                            Clark, MO 65243
+                            Salomón Rengifo 
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="text-uppercase mb-4">Around the Web</h4>
+                        <h4 class="text-uppercase mb-4">Síguenos en:</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
@@ -242,9 +242,9 @@
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">About Freelancer</h4>
-                        <p class="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
+                        <h4 class="text-uppercase mb-4">Agrdecemos al Template :)</h4>
+                        <!--<p class="lead mb-0">
+                            Freelance es un tema de Bootstrap de uso gratuito con licencia del MIT creado por
                             <a href="http://startbootstrap.com">Start Bootstrap</a>
                             .
                         </p>
@@ -254,7 +254,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; Your Website 2022</small></div>
+            <div class="container"><small>Copyright &copy; Your Website Salomón Rengifo 2022</small></div>
         </div>
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
@@ -267,7 +267,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Iquitos</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -275,12 +275,12 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/iquitosplaza.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4"> dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                       cerrar
                                     </button>
                                 </div>
                             </div>
